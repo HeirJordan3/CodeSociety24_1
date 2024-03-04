@@ -1,5 +1,3 @@
-If you're already working within a Git repository and you want to push updates to GitHub using the terminal in Visual Studio Code (VS Code), follow these streamlined steps. This guide assumes that your project is already initialized with Git and connected to a remote GitHub repository.
-
 ### Steps to Push Updates to GitHub from VS Code Terminal
 
 #### Step 1: Open Terminal in VS Code
