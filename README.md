@@ -1,4 +1,4 @@
-# MIGHTY_CODEDUCKS
+# Code Society 24.1
 
 #### Introduction to Git and GitHub
 
